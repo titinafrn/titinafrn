@@ -1,16 +1,19 @@
-### Hi there 👋
+print("belajar Python menyenangkan")
+print("hallo dunia")
 
-<!--
-**titinafrn/titinafrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bilangan1 = 5
+bilangan2 = 10
+kalimat = "Pejuang Data 3"
+bilangan1 + bilangan2
 
-Here are some ideas to get you started:
+# Ini adalah Comment
+print("belajar Phyton")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+''' 
+Ini adalah komentar panjang
+Bisa digunakan untuk memberikan penjelasan
+panjang pada Sell Kode Phyton,
+Misal dokumentasi program, spesifikasi
+input output atau lainnya
+'''
+print('Belajar Phyton menyenangkan')
